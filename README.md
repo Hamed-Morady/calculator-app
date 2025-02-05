@@ -16,34 +16,9 @@ A simple yet stylish calculator built using **HTML, CSS, and JavaScript**. This 
 ## 🚀 Live Demo
 You can check out the live version of this project here: [Live Demo](#)
 
-## 🔧 Installation & Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd calculator-app
-   ```
-3. Open `index.html` in your browser.
-
-## 📸 Screenshots
-### Default Theme:
-![Default Theme](#)
-
-### Alternative Themes:
-![Dark Theme](#)
-
 ## 🎯 To-Do Improvements
 - [ ] Improve responsiveness for smaller screens
 - [ ] Add keyboard support for input
 - [ ] Enhance animations for better UI experience
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests. Contributions are welcome! 😊
-
 ---
-Developed with ❤️ by [Your Name](https://github.com/yourusername)
+Developed with ❤️ by [Hamed-Morady](https://github.com/Hamed-Morady/calculator-app.git)
