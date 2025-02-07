@@ -14,7 +14,7 @@ A simple yet stylish calculator built using **HTML, CSS, and JavaScript**. This 
 - **JavaScript** for handling calculator logic and theme switching
 
 ## 🚀 Live Demo
-You can check out the live version of this project here: [Live Demo](#)
+You can check out the live version of this project here: https://hamed-morady.github.io/calculator-app/
 
 ## 🎯 To-Do Improvements
 - [ ] Improve responsiveness for smaller screens
